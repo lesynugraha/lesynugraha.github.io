@@ -10,3 +10,11 @@
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+#aaa {
+  flex: 1 0 auto;
+}
+
+#bbb {
+  flex-shrink: none;
+}
