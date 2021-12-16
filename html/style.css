@@ -1,0 +1,6 @@
+.banner {
+  background: url("./image/bg2.jpg") no-repeat center;
+  background-size: cover;
+  padding: 20%;
+  color: black;
+}
